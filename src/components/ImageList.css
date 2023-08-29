@@ -1,0 +1,13 @@
+.image-list {
+   
+    justify-content: center;
+    align-items: center;
+  }
+  .image-item {
+    margin: 5px; /* Resimler arasına boşluk eklemek isterseniz */
+  }
+  
+  .image-item img {
+    max-width: 100%;
+    height: auto;
+  }
